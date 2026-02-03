@@ -67,9 +67,9 @@ const defaultCorsOrigins = [
   'http://localhost:3000',
   'http://localhost:5173',
   'http://localhost:3001',
-  'https://fantyfresh.com',
-  'https://www.fantyfresh.com',
-  'https://adminfanty.vercel.app',
+  'https://marthaskincare.vercel.app',
+  'https://marthaskincare-backend.vercel.app',
+  'https://marthasystem.vercel.app',
 ];
 
 function buildCorsOrigins() {
